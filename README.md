@@ -1,12 +1,11 @@
-### Hello World! It is great to meet you! 👋
+### Hello World! 👋
 
-**My name is Dante Nicola Capobianco, a 1st Year University of Toronto Computer Engineer passionate about advancing my software skills and applying it towards major societal problems to bring positive change to the current state of the world!**
+**My name is Dante Capobianco, a University of Toronto Computer Engineer passionate about all things software. From computer AI systems to full-stack development to autonomous drone design, I aim to use my software skills to bring positive change!**
 
-- 🔭 **I’m currently working** on securing a 2024 Summer Software Internship with an industry leader
-- 🌱 **I’m currently focusing my learning** on AI Engineering and Engineering Business within my Bachelor Degree and taking on personal projects to project myself into a career as a software engineer
-- 🏆 **My hallmark achievements include:** University of Toronto President's Scholar of Excellence, 2023 Governor General Academic Medal Recipient, 1st Place in National First Nations & 1st Place in International Photoshop Essay Competitions, York Region District School Board Top Scholar, 1st Place in Provincial Questrade Stock Competition 
-- 👯 **I’m looking to collaborate on** a machine learning, AI software application that can solve one of the world's most pressing computational issues
-- 💬 **Ask me how** to apply data structures, object-oriented programming, and algorithmic coding within the Python and Java languages, as well as how to animate Sprites in Pygame
+- 🔭 **I’m currently working** on meeting client needs as the founder of CapoDev Services: a software development company with expertise in full-stack web application development. I am also enhancing these skills through a full-stack software development internship
+- 🌱 **I’m currently focusing my learning** on AI Engineering and Engineering Business, as I plan to expand my company's breadth of services to offer AI
+- 🏆 **My hallmark achievements include:** University of Toronto President's Scholar of Excellence (landing in the **Top 150** out of over 100,000 applicants), 2023 Governor General Academic Medal Recipient, 1st Place in National First Nations & 1st Place in International Photoshop Essay Competitions, YRDSB Top Scholar, 1st Place in Provincial Questrade Stock Competition 
+- 👯 **In my future career, I aim to collaborate on** a machine learning software application that can solve one of the world's most pressing computational issues
+- 💬 **Ask me how** to develop responsive web applications using front-end and back-end frameworks and several APIs!
 - 📫 **How to reach me:** dante.capobianco@mail.utoronto.com
-- 📱 **LinkedIn:** www.linkedin.com/in/dante-capobianco
-- ⚡ **Fun fact:** Not only am I skilled in coding and mathematics, but I played high-level, competitive hockey for over a decade!
+- 📱 **Instagram:** www.linkedin.com/in/dante-capobianco
