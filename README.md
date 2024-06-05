@@ -8,4 +8,5 @@
 - 👯 **In my future career, I aim to collaborate on** a machine learning software application that can solve one of the world's most pressing computational issues
 - 💬 **Ask me how** to develop responsive web applications using front-end and back-end frameworks and several APIs!
 - 📫 **How to reach me:** capodevservices@gmail.com
+- 👨‍💻 **Book a free consultation:** https://capodevservices.carrd.co/
 - 📱 **Instagram:** https://www.instagram.com/capodev_services/?igsh=OGl0ZHM1c29vMzJz&utm_source=qr
