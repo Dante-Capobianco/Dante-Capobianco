@@ -9,6 +9,7 @@
   - **University of Toronto President's Scholar of Excellence** (landing in the **Top 150 out of over 100,000 applicants**)
   - **2023 Governor General Academic Medal Recipient** with the highest achievement in my high school (**99.67% average**)
   - **Dean's Scholar of Excellence**
+  - **Top 2 Faculty Nominee** for scholarship highlighting significant achievement across academics, extracurriculars & volunteering
   - Landing in the **Top 30 out of all 1st to 3rd-year Computer & Electrical Engineering students**
   - More recently, being an **RBC Tech Scholar in AI Engineering** (within the **top 5** of all engineering students at my university studying AI Engineering)
   - More recently, being awarded the **Engineers Canada Leadership National Scholarship** (**top 8** engineering student across Canada)
