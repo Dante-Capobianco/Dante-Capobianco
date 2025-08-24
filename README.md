@@ -4,7 +4,7 @@
 
 - 🚀 **Ex-Meta Software Engineer Intern** as part of the 2025 Meta University program!
 - 🔭 **I’m currently working** on building a revolutionary job application platform that addresses common, high-impact challenges faced on today's platforms. This is the first of many innovative apps as the founder of CapoDev: an app development company building applications that will each positively impact at least 1 area of a person's everyday routine. Beyond my Meta internship, I have also enhanced my skills to equip me to pursue this complex endeavour through a full-stack software development internship, building a hackathon-winning AI model, and various personal projects!
-- 🌱 **I’m currently focusing my learning** on AI Engineering and Engineering Business as part of my minors at the University of Toronto, with a major in Computer Engineering
+- 🌱 **I’m currently focusing my learning** on AI Engineering and Engineering Business as part of my minors at the University of Toronto, with a major in Computer Engineering; I have also mentored first-year engineering students & currently serve as a Teaching Assistant for first-year Computer Engineering students teaching them study skills, job application skills, and the mindset to succeed in university
 - 🏆 **My hallmark achievements include:**
   - **University of Toronto President's Scholar of Excellence** (landing in the **Top 150 out of over 100,000 applicants**)
   - **2023 Governor General Academic Medal Recipient** with the highest achievement in my high school (**99.67% average**)
